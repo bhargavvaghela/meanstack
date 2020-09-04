@@ -1,1 +1,1 @@
-# meanstack
+# meanstack project
